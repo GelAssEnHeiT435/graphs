@@ -1,4 +1,4 @@
 # Поиск в глубину(dfs) и поиск в ширину(bfs) 
  
 
-![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://i.gifer.com/embedded/download/NUPJ.gif))
+![]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://i.gifer.com/embedded/download/NUPJ.gif))
