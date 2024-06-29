@@ -1,4 +1,6 @@
 # Поиск в глубину(dfs) и поиск в ширину(bfs) 
  
 
-![gif](https://github.com/GelAssEnHeiT435/graphs/blob/main/NUPJ.gif)
+<p align="center">
+  <img src="https://github.com/GelAssEnHeiT435/graphs/blob/main/NUPJ.gif" alt="gif dfs-bfs"/>
+</p>
